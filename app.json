@@ -1,0 +1,5 @@
+{
+  "name": "Real-Time UV Index Check",
+  "description": "Demo of real-time UV index check with DialogFlow and webhook in GCP",
+  "keywords": ["DialogFlow", "Google Assistant", "UV Index", "natural language"]
+}
