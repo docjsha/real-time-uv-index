@@ -1,4 +1,4 @@
-Here're the Dialogflow settings and webhook code of my very first Google Assistant app called [UV Check](https://assistant.google.com/services/a/uid/000000533364b564?hl=en-US) which provides real-time UV index at any U.S. location. 
+Here're the Dialogflow settings and webhook code of my very first Google Assistant app called [UV Check](https://assistant.google.com/services/a/uid/000000533364b564?hl=en-US) which provides real-time UV index info at any U.S. location. 
 
 <img src="https://github.com/docjsha/real-time-uv-index/blob/master/uv-check-logo.png" width="100" height="100" />
 
